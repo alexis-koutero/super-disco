@@ -1,4 +1,18 @@
+<<<<<<< HEAD
 Feature de la branche B
 
 
 Une ligne un peu plus loin
+=======
+
+
+
+
+
+
+
+
+
+
+Hahaha c'est un code ma branche 3 !
+>>>>>>> branch_3
